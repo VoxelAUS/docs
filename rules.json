@@ -1,31 +1,44 @@
 [
   {
-    "category": "Out of Character (OOC)",
+    "category": "Rule Definitions",
+    "id": "0.0",
     "rules": [
+      { "id": "0.1", "title": "Main Definition", "description": "This set of rules is a detailed order that applies to any user who joins the Voxel FiveM Server. By joining the Voxel FiveM Server you explicitly agree to not only abide by these rules but consistently check and ensure your understanding of these rules." },
+      { "id": "0.2", "title": "Player", "description": "By term refers to and directs towards the character(s) being played by a user." },
+      { "id": "0.3", "title": "User", "description": "By term refers to and directs towards you the real person or reader of this text." },
+      { "id": "0.4", "title": "Public", "description": "By term considers certain online virtual spaces to mimic and serve as a public area that which the Voxel FiveM server staff have the power to govern and control such as, open discord text or voice channels owned, operated, or endorsed by the Voxel FiveM server, the ENTIRETY of the live Voxel FiveM server, and any virtual place that is accessible to anyone which is owned or endorsed by Voxel. This term is void to any roleplay or in-character activities, laws, rules, or guidelines." },
+      { "id": "0.5", "title": "Private", "description": "By term considers certain online virtual spaces to mimic and serve as a private area that which the Voxel FiveM server staff have the power to govern and control such as, closed or locked discord text or voice channels that is owned, operated, or endorsed by Voxel FiveM server, and any virtual place that is accessible to authorised personnel which is owned or endorsed by Voxel FiveM servers. This term is void to any roleplay or in-character activities, laws, rules, or guidelines." },
+      { "id": "0.6", "title": "Personal", "description": "By term considers certain online virtual spaces to mimic and serve as a personal areas that which the Voxel FiveM server staff do not have the power to govern and control such as, direct messages on any platform between users, open, closed, or locked discord text or voice channels not owned, operated, or endorsed by the Voxel FiveM server, and any virtual place that is accessible to anyone which is not owned or endorsed by Voxel. This term is void to any roleplay or in-character activities, laws, rules, or guidelines. This term is also void to any user who engages in racial or discriminatory behavior towards certain groups or minorities or any user who engages in conduct revolving around explicit imagery or content regarding minors or vulnerable groups." },
+      { "id": "0.7", "title": "Fair play", "description": "By term defines and governs the idea that all players controlled by you the user have fair and equal opportunities within any playable or useable system determined by your own dedication and efforts on the Voxel FiveM server. Exceptions may be made to this should the Voxel FiveM server ownership team find grounds to adjust certain playable systems in a user or multiple users favour for the benefit of the Voxel FiveM server." }
+    ]
+  },
+  {
+    "category": "Out of Game Rules",
+    "id": "1.0",
+    "subcategories": [
       {
+        "subcategory": "User Interactions",
         "id": "1.1",
-        "title": "Respectful Interactions",
-        "description": "All communication between players must be respectful and free of harassment or toxicity."
+        "rules": [
+          { "id": "1.1.1", "title": "Respectful Interactions", "description": "All text and voice interactions between users in public or private spaces as defined in the definitions of these guidelines must be respectful and decent." },
+          { "id": "1.1.2", "title": "No Slander or Harm", "description": "Any interactions that occur in public or private spaces as defined in the definitions of these guidelines must not contain any slander against the users involved in the interaction and must not have the intent to cause emotional harm or distress." },
+          { "id": "1.1.3", "title": "Personal Space Interactions", "description": "Any interactions that occur in personal spaces as defined in the definitions of these guidelines cannot and will not be controlled or governed on any level unless the interaction is deemed to contain material or speech which the Voxel FiveM server staff deem as a violation of any real and active legislation or law." },
+          { "id": "1.1.4", "title": "Inclusive Conduct", "description": "In relation to section 1.4 subsection .1 all user interactions must adhere to the Inclusive Conduct rules no matter if they are in game or out of game." }
+        ]
       },
       {
+        "subcategory": "Usernames or Nicknames",
         "id": "1.2",
-        "title": "Discrimination & Hate Speech",
-        "description": "Discrimination, hate speech, or derogatory comments are strictly prohibited."
-      },
-      {
-        "id": "1.3",
-        "title": "Advertising",
-        "description": "Advertising other servers or services is not allowed in any form."
-      },
-      {
-        "id": "1.4",
-        "title": "Common Sense",
-        "description": "Use common sense. If you think something might not be allowed, ask staff or avoid doing it."
+        "rules": [
+          { "id": "1.2.1", "title": "Appropriate Names", "description": "All users are expected to have a reasonable, suitable, and unique username or nickname which does not contain or mimic offensive or discriminatory language." },
+          { "id": "1.2.2", "title": "Realistic Names", "description": "All users are expected to have a reasonable, suitable, and unique username or nickname which can be seen and understood as realistic and does not contain 'pun' or 'punning' language." }
+        ]
       }
     ]
   },
   {
     "category": "In Character (IC)",
+    "id": "2.0",
     "rules": [
       {
         "id": "2.1",
@@ -45,7 +58,7 @@
       {
         "id": "2.4",
         "title": "FearRP",
-        "description": "You must act with realistic fear for your character\u2019s life when appropriate."
+        "description": "You must act with realistic fear for your character's life when appropriate."
       },
       {
         "id": "2.5",
@@ -56,6 +69,7 @@
   },
   {
     "category": "Criminal Roleplay",
+    "id": "3.0",
     "rules": [
       {
         "id": "3.1",
@@ -76,6 +90,7 @@
   },
   {
     "category": "Police Roleplay",
+    "id": "4.0",
     "rules": [
       {
         "id": "4.1",
@@ -91,6 +106,7 @@
   },
   {
     "category": "EMS & Fire Roleplay",
+    "id": "5.0",
     "rules": [
       {
         "id": "5.1",
@@ -106,6 +122,7 @@
   },
   {
     "category": "Server Rules & Misc",
+    "id": "6.0",
     "rules": [
       {
         "id": "6.1",
@@ -122,6 +139,48 @@
         "title": "Roleplay Quality",
         "description": "We expect everyone to contribute positively to the roleplay experience."
       }
+    ]
+  },
+  {
+    "category": "In Game Rules",
+    "id": "7.0",
+    "rules": [
+      { "id": "7.1.1", "title": "Breaking Character", "description": "All players are to stay in character at all times. If a situation arises, fully engage in role-play to address it, and submit a player report if necessary. Refrain from breaking character or informing the player they are violating a rule during the game. Additionally, avoid taking actions in-game with the intention of provoking others to break role-play. The only time players may exit character while in game is if they are directed to by a member of the VOXEL Servers staff team." },
+      { "id": "7.2.1", "title": "Hostile or Violent Roleplay", "description": "All players are expected to make reasonable roleplay efforts before engaging in hostile or violent roleplay against any other player or organization. Hostile roleplay that occurs between players or organizations that have no reasonable roleplay prior to the hostile activity will be treated as random death match (2.2.2)." },
+      { "id": "7.2.2", "title": "Random Death Match (RDM) & Vehicle Death Match (VDM)", "description": "Random death match is defined as a player or organization engaging in hostile roleplay that results in the death of another player/group of players without appropriate reasoning or prior roleplay. Random death match is prohibited and will not be tolerated. VDM stands for Vehicle Death Match. It refers to the act of using a vehicle with the intention to kill or knock out another player without valid reasoning or initiation. This typically involves using a vehicle as a weapon to harm other players in the game. Depending on the situation: Attacking another player/group without any story/roleplay leading up to it. Attacking another player/group using a Vehicle with the intent to kill/knock them out without valid reasoning or initiation. Speed (100+) attacking other vehicles (Ramming)." }
+    ]
+  },
+  {
+    "category": "Roleplay Integrity",
+    "id": "8.0",
+    "rules": [
+      { "id": "8.1.1", "title": "Powergaming", "description": "Powergaming is the act of forcing actions on other players or characters without giving them a fair opportunity to respond or roleplay their own actions. This could involve unrealistic actions or scenarios where a player's character has an unfair advantage or ability that would not be feasible within the context of the game world." },
+      { "id": "8.1.2", "title": "Metagaming", "description": "Metagaming occurs when a player uses out-of-character knowledge to influence their in-game decisions or actions. This could involve using information gained from sources external to the game, such as private conversations or forums, to gain an unfair advantage or make decisions that their in-game character would not realistically have knowledge of." },
+      { "id": "8.1.3", "title": "FailRP (Fail Roleplay)", "description": "FailRP refers to situations where a player's actions or roleplay do not align with the established rules, setting, or expectations of the game world. This could include unrealistic behavior, breaking character, or otherwise disrupting the immersion and continuity of the roleplaying experience for other players." },
+      { "id": "8.1.4", "title": "Powergaming & Fail RP situations", "description": "Talking/Organizing/Calling out locations while downed. Prioritizing quick money-making over roleplay. Escorting people in vehicles without using the appropriate commands. Using /me and /notes to enhance scenarios. Repeatedly driving at unrealistic speeds without character justification. When downed, you cannot access your inventory or drop items. If revived after being downed, refrain from re-engaging in the original scenario. Holding spawn points. Transferring funds between characters or players is not allowed." }
+    ]
+  },
+  {
+    "category": "Life Rules",
+    "id": "9.0",
+    "rules": [
+      { "id": "9.1.2", "title": "New Life Rule (NLR)", "description": "After being downed and respawning at the hospital, your character forgets the immediate events that led to being downed. You cannot respawn if you've been informed that police or paramedics are en route to your location. While incapacitated, you must attempt to seek medical assistance in some form." },
+      { "id": "9.1.3", "title": "Valuing Life", "description": "'Valuing life' means making decisions in roleplay scenarios as if your character's life has real consequences. This includes reacting realistically to threats of violence, avoiding unnecessary risks, and not engaging in reckless behavior that could result in harm or death to your character. Essentially, it's about prioritizing survival and making choices that reflect the importance of life within the roleplay world." },
+      { "id": "9.1.4", "title": "Examples in Valuing Life", "description": "Realistically fearing for your character's life when threatened with weapons or severe harm. Prohibiting non-spontaneous shootouts at PD or hospital. Avoid antagonizing gangs, police, or armed individuals without character justification. Players should refrain from inserting themselves into ongoing situations or shootouts between groups or between one group and the police." }
+    ]
+  },
+  {
+    "category": "Combat",
+    "id": "10.0",
+    "rules": [
+      { "id": "10.1", "title": "Combat Rules", "description": "Criminal activities involving PvP interactions are limited to groups of 6 players maximum at a time. Exceptions may apply when a group of 6 initiates hostile actions against a larger group, with all participants flagged for the scenario. Relaying information to or between characters (such as lookouts or radio communications) counts as involvement in the scenario. Prioritizing shooters or grinders over roleplayers is not acceptable. Players smuggling items into the prison must have a logical roleplay reason for doing so and understand the associated risks. Interfering with ongoing heists conducted by other parties is prohibited. If an individual is arrested and being processed during a server restart, they must turn themselves in to the police upon returning to continue the roleplay post-restart." }
+    ]
+  },
+  {
+    "category": "Basic Respect & Decency",
+    "id": "11.0",
+    "rules": [
+      { "id": "11.1", "title": "Basic Respect & Decency", "description": "In Voxel, we prioritize creating a respectful and inclusive environment for all members of our community, irrespective of gender, sexual orientation, or age. Our goal is to cultivate a welcoming atmosphere where every member feels valued and respected. We have a zero-tolerance policy towards derogatory language, harassment, or disrespectful behavior. Whether in-character or out-of-character interactions, we expect all members to treat each other with kindness and respect. Justifying actions with 'it's my character' is not an excuse for inappropriate behavior. Our staff are here to support and address any concerns that may arise, ensuring that Voxel remains a place where everyone can enjoy their roleplaying experience to the fullest." }
     ]
   }
 ]
