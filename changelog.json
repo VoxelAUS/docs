@@ -1,0 +1,34 @@
+{
+  "_legend": [
+    "+ Added",
+    "- Removed",
+    "* Changed",
+    "# Fixed",
+    "@ Deprecated",
+    "! Security",
+    "No symbol: Other/Miscellaneous"
+  ],
+  "changelogs": [
+    {
+      "date": "16/05/2025",
+      "version": "1.2.0",
+      "title": "Major Update: New Jobs & Vehicles",
+      "changes": [
+        "+ Tow truck job and related missions.",
+        "+ 10 new custom vehicles.",
+        "* Improved police AI response.",
+        "# Resolved bug with property purchases.",
+        "+ Added new jobs and vehicles."
+      ]
+    },
+    {
+      "date": "15/05/2025",
+      "version": "1.1.1",
+      "title": "Patch: Bug Fixes & Tweaks",
+      "changes": [
+        "# Fixed exploit with bank robberies.",
+        "* Adjusted food/drink prices."
+      ]
+    }
+  ]
+}
