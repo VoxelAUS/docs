@@ -1,19 +1,15 @@
 [
   {
     "category": "Getting Started",
-    "id": "start",
     "subcategories": [
       {
         "subcategory": "Server Connection",
-        "id": "start-connect",
         "items": [
           {
-            "id": "start-connect-1",
             "question": "How do I connect to the server?",
             "answer": "To connect to our server, open FiveM and press F8 to open the console. Type 'connect play.example.com' and press Enter. Make sure you have FiveM installed and updated to the latest version."
           },
           {
-            "id": "start-connect-2",
             "question": "What are the server requirements?",
             "answer": "You need a valid copy of GTA V, FiveM client installed, and a stable internet connection. We recommend at least 8GB RAM and a decent graphics card for the best experience."
           }
@@ -21,15 +17,12 @@
       },
       {
         "subcategory": "Character Creation",
-        "id": "start-char",
         "items": [
           {
-            "id": "start-char-1",
             "question": "How do I create my character?",
             "answer": "When you first join the server, you'll be prompted to create your character. You can customize your appearance, choose your starting location, and set up your basic information."
           },
           {
-            "id": "start-char-2",
             "question": "Can I have multiple characters?",
             "answer": "Yes, you can create up to 3 characters per account. Each character has its own progression, inventory, and story."
           }
@@ -39,19 +32,15 @@
   },
   {
     "category": "Gameplay",
-    "id": "game",
     "subcategories": [
       {
         "subcategory": "Jobs & Economy",
-        "id": "game-jobs",
         "items": [
           {
-            "id": "game-jobs-1",
             "question": "How do I get a job?",
             "answer": "Visit the job center in the city or check the job board in your phone. Different jobs have different requirements and pay rates. Some jobs may require specific licenses or training."
           },
           {
-            "id": "game-jobs-2",
             "question": "What's the best way to make money?",
             "answer": "There are many ways to earn money: legal jobs, businesses, investments, or activities. The best method depends on your playstyle and available time. We recommend starting with legal jobs to build your character's reputation."
           }
@@ -59,15 +48,12 @@
       },
       {
         "subcategory": "Vehicles & Properties",
-        "id": "game-veh",
         "items": [
           {
-            "id": "game-veh-1",
             "question": "How do I buy a vehicle?",
             "answer": "Visit any vehicle dealership in the city or use the vehicle shop in your phone. You'll need a valid driver's license and enough money. Some vehicles may require additional licenses or certifications."
           },
           {
-            "id": "game-veh-2",
             "question": "Can I customize my vehicles?",
             "answer": "Yes, you can customize your vehicles at any mechanic shop. Available modifications include performance upgrades, visual changes, and special features. Some modifications may require specific licenses or achievements."
           }
@@ -77,20 +63,16 @@
   },
   {
     "category": "Community",
-    "id": "comm",
     "items": [
       {
-        "id": "comm-1",
         "question": "How do I report a player?",
         "answer": "Use the /report command in-game or submit a ticket on our Discord server. Please provide as much information as possible, including the player's name, time of incident, and what happened."
       },
       {
-        "id": "comm-2",
         "question": "Where can I find the server rules?",
         "answer": "You can find our complete server rules in the Rules section of our website. It's important to read and follow these rules to ensure a great experience for everyone."
       },
       {
-        "id": "comm-3",
         "question": "How do I join the Discord?",
         "answer": "You can join our Discord server by clicking the Discord icon in the navigation bar or using the invite link: discord.gg/example. Our Discord is the best place to stay updated and connect with the community."
       }
