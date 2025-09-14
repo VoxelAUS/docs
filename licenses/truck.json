@@ -1,0 +1,36 @@
+{
+  "title": "Truck License — Study Guide",
+  "description": "Heavy vehicle safety, fatigue, loading and speed rules for the Voxel test.",
+  "items": [
+    {
+      "question": "Which of the following should you NOT do if you experience a tire failure?",
+      "explanation": "Do not slam the brakes. Ease off and control the vehicle safely.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Flags or lights are required on projecting loads that extend",
+      "explanation": "Loads extending 1.2m or more must be marked clearly.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "What is the maximum ammount of hours you can work for?",
+      "explanation": "Truck drivers may drive up to 12 hours with mandatory rests.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "To help you stay alert and safe while driving, you should",
+      "explanation": "Avoid drowsiness-causing medication. Fatigue is a major risk.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "What is the maximum speed limit for heavy vehicles over 4.5 tonnes GVM?",
+      "explanation": "Heavy vehicles are restricted to 100km/h for safety.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    }
+  ]
+}

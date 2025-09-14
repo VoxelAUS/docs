@@ -1,0 +1,114 @@
+{
+  "title": "Drivers License — Study Guide",
+  "description": "Learn core rules and reasoning to pass the Drivers license test on Voxel.",
+  "items": [
+    {
+      "question": "Can you ride on public roads in this way?",
+      "explanation": "Riding in this manner is unsafe and against traffic rules. Always maintain proper road discipline regardless of other vehicles.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "As you approach the center of a turn, you should",
+      "explanation": "Slowing down maintains control and prevents skidding when cornering.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "When approaching an intersection, you should select a lane position to",
+      "explanation": "Choosing a lane that increases visibility helps you and other drivers anticipate movements safely.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "What are the requirements for wearing a helmet?",
+      "explanation": "Helmets are required for all riders and passengers. They are the most important protection against head injury.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Grabbing the front brake or jamming down on the rear brake.",
+      "explanation": "Sudden braking causes wheel lock. Controlled braking is key to stopping safely.",
+      "correctAnswer": "C",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Passengers on motorcycles should",
+      "explanation": "Passengers should sit close but not crowding, keeping balance and stability.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    },
+    {
+      "question": "When riding with a group of motorcyclists, a staggered formation",
+      "explanation": "Side-by-side riding reduces maneuvering space. A staggered or single-file is safest in certain situations.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    },
+    {
+      "question": "You should operate the engine cut-off switch and pull in the clutch when",
+      "explanation": "During emergencies, shutting off the engine and clutching prevents further loss of control.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Before changing lanes on a multilane road, you should check",
+      "explanation": "Always check both the immediate and far lanes to avoid blind spot collisions.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    },
+    {
+      "question": "When riding in a group, the best formation is the ___ formation.",
+      "explanation": "Single-file is safest in tight or hazardous conditions, though staggered is often used on open roads.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    },
+    {
+      "question": "When making a slow, tight turn, the rider should",
+      "explanation": "Keeping the body upright and leaning the bike improves control at low speeds.",
+      "correctAnswer": "D",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Is it safe to over take this vehicle?",
+      "explanation": "Never overtake when visibility or conditions are unsafe.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Most of your motorcycles stopping power is provided by",
+      "explanation": "The front brake provides the majority of stopping power due to weight transfer.",
+      "correctAnswer": "D",
+      "source": "【7†source】"
+    },
+    {
+      "question": "If your motorcycle starts to wobble, your best course of action is to",
+      "explanation": "Do not fight the wobble or accelerate. Gradually close the throttle and slow down.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Surfaces that provide little traction for a motorcycle include",
+      "explanation": "Gravel and loose surfaces significantly reduce traction and increase risk of falls.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Increase your safety at night by",
+      "explanation": "Combining lighting, safe distance, and helmets maximizes nighttime safety.",
+      "correctAnswer": "D",
+      "source": "【7†source】"
+    },
+    {
+      "question": "When following a vehicle, you should maintain a ___ or more second following distance.",
+      "explanation": "A three-second gap allows enough time to react safely.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "What is the speed limit for lane filtering?",
+      "explanation": "Lane filtering is only permitted under 30km/h for safety.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    }
+  ]
+}

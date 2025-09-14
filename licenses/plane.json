@@ -1,0 +1,72 @@
+{
+  "title": "Plane License — Study Guide",
+  "description": "Fixed‑wing fundamentals: forces of flight, right of way, instruments and weather.",
+  "items": [
+    {
+      "question": "What is the Angle of Attack?",
+      "explanation": "The angle between the chord line of a wing and the relative wind defines angle of attack.",
+      "correctAnswer": "A",
+      "source": "【42†source】"
+    },
+    {
+      "question": "Which aircraft has the right of way over the other aircraft listed?",
+      "explanation": "Gliders have priority due to limited maneuverability.",
+      "correctAnswer": "A",
+      "source": "【42†source】"
+    },
+    {
+      "question": "Filling the tanks after the last flight of the day is a good idea because...",
+      "explanation": "It prevents condensation by reducing empty air space in tanks.",
+      "correctAnswer": "C",
+      "source": "【42†source】"
+    },
+    {
+      "question": "What is V-speed?",
+      "explanation": "V-speeds refer to standard performance speeds like cruise speed.",
+      "correctAnswer": "B",
+      "source": "【42†source】"
+    },
+    {
+      "question": "What are the three primary axes of aircraft movement?",
+      "explanation": "Aircraft move around longitudinal, lateral, and vertical axes.",
+      "correctAnswer": "A",
+      "source": "【42†source】"
+    },
+    {
+      "question": "What is the aircraft's shadow zone?",
+      "explanation": "The shadow zone lies behind the wing’s leading edge where airflow is unstable.",
+      "correctAnswer": "D",
+      "source": "【42†source】"
+    },
+    {
+      "question": "What are the four primary forces acting on an airplane in flight?",
+      "explanation": "Lift, gravity, thrust, and drag are the fundamental forces of flight.",
+      "correctAnswer": "A",
+      "source": "【42†source】"
+    },
+    {
+      "question": "What role does the elevator play in an airplane?",
+      "explanation": "The elevator controls pitch, climbing, and descending along the longitudinal axis.",
+      "correctAnswer": "A",
+      "source": "【42†source】"
+    },
+    {
+      "question": "What are the three main components of a jet engine?",
+      "explanation": "Compressor, turbine, and combustion section are essential jet engine parts.",
+      "correctAnswer": "A",
+      "source": "【42†source】"
+    },
+    {
+      "question": "What this picture shows?",
+      "explanation": "It shows an attitude indicator, essential for orientation.",
+      "correctAnswer": "C",
+      "source": "【42†source】"
+    },
+    {
+      "question": "What is the name of this group of clouds?",
+      "explanation": "These are cumulus clouds, recognized by their fluffy appearance.",
+      "correctAnswer": "D",
+      "source": "【42†source】"
+    }
+  ]
+}

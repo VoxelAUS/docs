@@ -1,0 +1,66 @@
+{
+  "title": "Boat License — Study Guide",
+  "description": "Waterway safety, towing, radio calls and environmental rules.",
+  "items": [
+    {
+      "question": "Children aged under 12 years must wear a lifejacket:",
+      "explanation": "Children under 12 must always wear a lifejacket on vessels up to 4.8m long for safety.",
+      "correctAnswer": "A",
+      "source": "【34†source】"
+    },
+    {
+      "question": "When building your boating experience, it is a good idea to:",
+      "explanation": "Take a more experienced boater with you to learn safe practices.",
+      "correctAnswer": "C",
+      "source": "【34†source】"
+    },
+    {
+      "question": "If you see a dredge operation, what should you do?",
+      "explanation": "Always keep well clear of dredges and minimise wash to avoid hazards.",
+      "correctAnswer": "B",
+      "source": "【34†source】"
+    },
+    {
+      "question": "Can you modify the engine noise control equipment on your boat?",
+      "explanation": "No. Tampering with noise control equipment is illegal and unsafe.",
+      "correctAnswer": "C",
+      "source": "【34†source】"
+    },
+    {
+      "question": "When towing someone behind your vessel, who is responsible to ensure the towed person and items do not cause an obstruction or danger?",
+      "explanation": "The skipper is responsible for safety at all times.",
+      "correctAnswer": "A",
+      "source": "【34†source】"
+    },
+    {
+      "question": "What is the maximum number of people that you can tow at once?",
+      "explanation": "You can tow a maximum of 3 people at once to reduce risk of accidents.",
+      "correctAnswer": "B",
+      "source": "【34†source】"
+    },
+    {
+      "question": "What is the best definition of 'enclosed waters'?",
+      "explanation": "Enclosed waters are navigable waters surrounded by land or a port.",
+      "correctAnswer": "A",
+      "source": "【34†source】"
+    },
+    {
+      "question": "What do you need to do before anchoring?",
+      "explanation": "Always check for space from other vessels and obstacles before anchoring.",
+      "correctAnswer": "A",
+      "source": "【34†source】"
+    },
+    {
+      "question": "When can you throw rubbish overboard on Voxel waterways?",
+      "explanation": "Never. All rubbish must be taken ashore for proper disposal to protect waterways.",
+      "correctAnswer": "D",
+      "source": "【34†source】"
+    },
+    {
+      "question": "If you require assistance at sea but there is no immediate danger to the vessel or people on board, which emergency words do you use on the marine radio?",
+      "explanation": "Use 'Pan Pan' for urgent but non-life-threatening assistance requests.",
+      "correctAnswer": "B",
+      "source": "【34†source】"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Motorcycle License — Study Guide",
+  "description": "Master motorcycle safety, road positioning, and visibility for the Voxel test.",
+  "items": [
+    {
+      "question": "Should you brake in such a situation?",
+      "explanation": "Brake when there is safe stopping distance to avoid collisions.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Can you stop on this part of the sidewalk?",
+      "explanation": "Stopping on sidewalks blocks pedestrians and is unsafe.",
+      "correctAnswer": "C",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Can you make a left turn in this situation?",
+      "explanation": "Left turns are allowed unless prohibited by signage.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Can you turn right at this point without stopping?",
+      "explanation": "You may turn if it is safe and traffic permits, unless a stop is mandatory.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    },
+    {
+      "question": "What is the maximum speed you can travel on this road?",
+      "explanation": "The maximum is 110km/h unless otherwise signposted.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Can the road shown in the photo be traveled in both directions?",
+      "explanation": "No, it is a one-way road. Driving against flow risks collision.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Can you turn left at this point?",
+      "explanation": "Turning is prohibited here by signage.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Which of these pavement markings separates two lanes traveling in the same direction?",
+      "explanation": "Broken white lines separate lanes in the same direction. Others do not.",
+      "correctAnswer": "C",
+      "source": "【7†source】"
+    },
+    {
+      "question": "This sign means:",
+      "explanation": "Pedestrian crossing ahead – slow down and prepare to stop.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    },
+    {
+      "question": "This sign means:",
+      "explanation": "Do not enter – indicates a prohibited roadway.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Can you pass another vehicle when approaching a curve or a hill?",
+      "explanation": "No, visibility is limited. Wait until the road ahead is clear.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Which of the following places is a U-turn allowed?",
+      "explanation": "U-turns are only legal where specifically signposted.",
+      "correctAnswer": "C",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Finish the sentence - You should...",
+      "explanation": "Always drive to the conditions of the road and weather.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "When driving in fog, rain, or snow, always use ___",
+      "explanation": "Low beams reduce glare and improve vision in poor weather.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    },
+    {
+      "question": "A broken yellow centerline means that:",
+      "explanation": "Passing is allowed on the left when the way is clear.",
+      "correctAnswer": "B",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Alcohol is",
+      "explanation": "Alcohol is a depressant, slowing reflexes and impairing judgment.",
+      "correctAnswer": "C",
+      "source": "【7†source】"
+    },
+    {
+      "question": "Before you change lanes, you should check your mirrors and",
+      "explanation": "Always shoulder check blind spots before moving lanes.",
+      "correctAnswer": "A",
+      "source": "【7†source】"
+    }
+  ]
+}
